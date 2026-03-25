@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, my name is Nandini Singh
 
-<!--
-**incompetant-jellyfish/incompetant-jellyfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech Student  
+ Branch: Computer Science and Engineering
+ Year: First year 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a passionate student currently exploring the world of programming and technology.  
+I enjoy solving problems, learning new concepts, and building small projects to improve my skills.
+
+---
+
+## Skills
+- Languages: C, C++, Python (basic)
+- Tools: Git, GitHub, VS Code
+- Concepts: Data Structures (learning), Algorithms (learning)
+
+---
+
+##  Currently Learning
+- Data Structures and Algorithms  
+- Problem Solving  
+- Web Development basics  
+
+---
+
+## Goals
+- Build strong problem-solving skills  
+- Contribute to open-source projects  
+- Develop real-world applications  
+- Secure internships in the tech field  
+
+---
+
+
+* Thanks for visiting my profile!
