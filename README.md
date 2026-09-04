@@ -7,8 +7,8 @@ Hi, my name is Nandini Singh
 ---
 
 ## About Me
-I am a passionate student currently exploring the world of programming and technology.  
-I enjoy solving problems, learning new concepts, and building small projects to improve my skills.
+ghee khatam
+
 
 ---
 
